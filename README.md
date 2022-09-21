@@ -1,16 +1,18 @@
-### Hi there 👋
+ｈａｍｉｓｈ ｌｅａｈｙ
 
-<!--
-**Hamish-Leahy/hamish-leahy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Ⓢⓞⓕⓣⓦⓐⓡⓔ ⓔⓝⓖⓘⓝⓔⓔⓡ
 
-Here are some ideas to get you started:
+𝑰 𝑪𝒐𝒅𝒆 𝑰𝒏:
+    
+ 
+—------------------------
+I Also Teach A Coding 
+COURSE!
+—
+Why Did I Learn To Code?
+look if i am honest to you i only got into coding 
+to bring my ideas to life and i think coding is the
+most affective way to do that. 
+—
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
