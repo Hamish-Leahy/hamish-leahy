@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/hamishleahydev" target="blank"><img src="https://img.shields.io/twitter/follow/hamishleahydev?logo=twitter&style=for-the-badge" alt="hamishleahydev" /></a> </p>
 
-- 🔭 I’m currently working on **Herdies Coffee Mobile Ordering**
+- 🔭 I’m currently working on **iDecide Mobile & Web**
 
 - 🌱 I’m currently learning **Bachelor of Computer Science, Rust Programming Language**
 
