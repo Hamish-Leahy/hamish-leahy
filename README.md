@@ -14,7 +14,7 @@
 
 - 👯 I’m looking to collaborate on **Artificial Intelligence & Machine Learning**
 
-- 🤝 I’m looking for help with **Aritifical intelligence & Machine Learning**
+- 🤝 I’m looking for help with **Nothing At the Moment**
 
 - 👨‍💻 All of my projects are available at [www.hamishleahy.com](www.hamishleahy.com)
 
