@@ -1,42 +1,28 @@
-## Hi there! 👋
+# 💫About Me :
+I'm currently working on iDecide
+I'm looking to collaborate on I'm looking for help with Rust
+I'm currently learning TypeScript
+Ask me about Ai 
 
-I'm Hamish Leahy, a passionate young developer from Australia. I love creating innovative solutions and exploring new technologies. Welcome to my GitHub profile!
 
-## About Me
+## 🌐Socials
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/hamish_leahy) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hamish_leahy) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hamishleahy) 
 
-I'm a 14-year-old student currently studying at the University of New England. My interests lie in software development, and I'm constantly learning and growing in this field. You can find more about me on my personal website [www.hamishleahy.com](http://www.hamishleahy.com).
+# 💻Tech Stack
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=java&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=plastic&logo=swift&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=plastic&logo=rust&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=plastic&logo=markdown&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=plastic&logo=azure-devops&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=plastic&logo=Cloudflare&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=plastic&logo=oracle&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=plastic&logo=netlify&logoColor=#00C7B7) ![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=plastic&logo=svelte&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=plastic&logo=Flutter&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=plastic&logo=django&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=plastic&logo=flask&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=plastic&logo=npm&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=plastic&logo=nestjs&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=plastic&logo=sqlite&logoColor=white) 	![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=plastic&logo=supabase&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=plastic&logo=Amazon%20DynamoDB&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=plastic&logo=microsoft%20sql%20server&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=plastic&logo=mysql&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=plastic&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Audition](https://img.shields.io/badge/Adobe%20Audition-9999FF.svg?style=plastic&logo=Adobe%20Audition&logoColor=white) ![Adobe Dreamweaver](https://img.shields.io/badge/Adobe%20Dreamweaver-FF61F6.svg?style=plastic&logo=Adobe%20Dreamweaver&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=plastic&logo=adobeillustrator&logoColor=white) ![Aseprite](https://img.shields.io/badge/Aseprite-FFFFFF?style=plastic&logo=Aseprite&logoColor=#7D929E) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=plastic&logo=Adobe%20XD&logoColor=#FF61F6) ![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=plastic&logo=inkscape&logoColor=080A13) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=plastic&logo=blender&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=plastic&logo=adobephotoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=plastic&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=plastic&logo=Adobe%20Lightroom&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white) ![Alfred](https://img.shields.io/badge/alfred-%235C1F87.svg?style=plastic&logo=alfred) ![AquaSec](https://img.shields.io/badge/aqua-%231904DA.svg?style=plastic&logo=aqua&logoColor=#0018A8) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=plastic&logo=Arduino&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=plastic&logo=kubernetes&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=plastic&logo=notion&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=plastic&logo=firefox&logoColor=#FF7139) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=plastic&logo=Trello&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=plastic&logo=terraform&logoColor=white)
+# 📊GitHub Stats :
+![](https://github-readme-stats.vercel.app/api?username=hamish-leahy&theme=merko&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=hamish-leahy&theme=merko&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=hamish-leahy&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## Skills & Technologies
+## 🏆GitHub Trophies
+![](https://github-trophies.vercel.app/?username=hamish-leahy&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-html,css,react,redux,django,nodejs,git,github,docker,flask,postgres,mongodb,express,linux,aws,tailwind,graphql
+### ✍️Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-## Top Projects
+### 😂Random Dev Meme
+<img src="https://random-memer.herokuapp.com/" width="512px"/>
 
-- [iDecide](https://github.com/Hamish-Leahy/iDecide): iDecide Mobile Application Development - Stars: 0 - Language: TypeScript
-- [Hoskins-Theater-Inventory-Management](https://github.com/Hamish-Leahy/Hoskins-Theater-Inventory-Management): A comprehensive inventory management system for The Armidale School's Hoskins Theatre - Stars: 1 - Language: TypeScript
-- [TAS-PDHPE-Software](https://github.com/Hamish-Leahy/TAS-PDHPE-Software): PDHPE Dept // Co-Curricular Software Suite - Stars: 1 - Language: TypeScript
-- [linux](https://github.com/Hamish-Leahy/linux): Linux kernel source tree - Stars: 0 - Language: C
-- [redis-HL](https://github.com/Hamish-Leahy/redis-HL): Redis is an in-memory database that persists on disk - Stars: 0 - Language: C
-
-## GitHub Stats
-
-🔭 Public Repositories: 40
-👥 Followers: 5
-🔗 Following: 20
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hamish-Leahy&show_icons=true&theme=radical)
-
-## Recent Activity
-
-- Pushed to [iDecide](https://github.com/Hamish-Leahy/iDecide) on March 10, 2025.
-- Created a tag '0.0.1' in [Hoskins-Theater-Inventory-Management](https://github.com/Hamish-Leahy/Hoskins-Theater-Inventory-Management) on March 10, 2025.
-- Published release for [Hoskins-Theater-Inventory-Management](https://github.com/Hamish-Leahy/Hoskins-Theater-Inventory-Management) on March 10, 2025.
-- Created a README.md for [Hoskins-Theater-Inventory-Management](https://github.com/Hamish-Leahy/Hoskins-Theater-Inventory-Management) on March 10, 2025.
-- Pushed to [TAS-PDHPE-Software](https://github.com/Hamish-Leahy/TAS-PDHPE-Software) on March 9, 2025.
-
-## Latest Blog Posts
-
-No recent blog posts available at the moment.
-
-## Connect with Me
-
-{"linkedin":"https://www.linkedin.com/in/hamish-leahy-ab31a92a0/"}
+---
+[![](https://visitcount.itsvg.in/api?id=hamish-leahy&icon=0&color=0)](https://visitcount.itsvg.in)
