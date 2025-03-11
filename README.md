@@ -1,7 +1,14 @@
 # 💫About Me :
+
 I'm currently working on iDecide
+
+
 I'm looking to collaborate on I'm looking for help with Rust
+
+'
 I'm currently learning TypeScript
+
+
 Ask me about Ai 
 
 
