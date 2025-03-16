@@ -1,6 +1,6 @@
-# 💫About Me :
+# About Me :
 
-I'm currently working on iDecide
+I'm currently working on Artificial Intelligence
 
 
 I'm looking to collaborate on I'm looking for help with Rust
