@@ -1,6 +1,6 @@
 # About Me :
 
-I'm currently working on Artificial Intelligence
+I'm currently working on Artificial Intelligence - Localised Neural Networks
 
 
 I'm looking to collaborate on I'm looking for help with Rust
