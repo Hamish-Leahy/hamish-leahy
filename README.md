@@ -5,8 +5,8 @@ I'm currently working on Artificial Intelligence - Localised Neural Networks
 
 I'm looking to collaborate on I'm looking for help with Rust
 
-'
-I'm currently learning TypeScript
+
+I'm currently learning MCP
 
 
 Ask me about Ai 
