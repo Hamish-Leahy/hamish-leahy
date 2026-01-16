@@ -1,13 +1,12 @@
 # About Me :
 
-I'm currently working on Artificial Intelligence - Localised Neural Networks
+I'm currently working on a Flight Management System Demo using ADA
 
+I'm looking to collaborate on ADA Demo Projects
 
-I'm looking to collaborate on I'm looking for help with Rust
-
+I'm looking for help with Nothing at the moment
 
 I'm currently learning MCP
-
 
 Ask me about Ai 
 
